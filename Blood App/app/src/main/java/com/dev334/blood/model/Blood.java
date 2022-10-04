@@ -12,6 +12,8 @@ public class Blood {
 
 
 
+
+
     private String user;
     private Double latitude;
     private Double longitude;
