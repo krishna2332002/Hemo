@@ -6,6 +6,12 @@ public class Blood {
     private String _id;
 
 
+
+
+
+
+
+
     private String user;
     private Double latitude;
     private Double longitude;
